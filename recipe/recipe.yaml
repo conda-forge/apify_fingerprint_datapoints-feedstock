@@ -35,7 +35,7 @@ about:
   summary: Browser fingerprint datapoints collected by Apify
   license: Apache-2.0
   license_file: LICENSE.md
-  homepage: https://docs.apify.com/academy/anti-scraping/techniques/fingerprinting
+  homepage: https://github.com/apify/fingerprint-suite
   documentation: https://docs.apify.com/academy/anti-scraping/techniques/fingerprinting
 
 extra:
