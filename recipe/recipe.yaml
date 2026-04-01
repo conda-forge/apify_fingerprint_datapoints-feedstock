@@ -29,7 +29,9 @@ tests:
       imports:
         - apify_fingerprint_datapoints
       pip_check: true
-      python_version: ${{ python_min }}.*
+      python_version:
+        - ${{ python_min }}.*
+        - "*"
 
 about:
   summary: Browser fingerprint datapoints collected by Apify
