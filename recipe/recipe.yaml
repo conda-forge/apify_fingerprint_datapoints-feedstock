@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.12.0"
+  version: "0.13.0"
 
 package:
   name: apify_fingerprint_datapoints
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/a/apify_fingerprint_datapoints/apify_fingerprint_datapoints-${{ version }}.tar.gz
-  sha256: a748d6cf2cee853f0276421e661d398cf725e7f453a1a8228e11a3b28db1d825
+  sha256: 263141c19e9bc90a821e6b4e2b845925f17e0b8fbd53a897fc71546bd50df7f1
 
 build:
   number: 0
